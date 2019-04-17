@@ -1,0 +1,13 @@
+{
+  "env": {
+    "FORCE_COLOR": "true"
+  },
+  "exec": "node --inspect=0.0.0.0:9229 build",
+  "ext": "ts,json",
+  "ignore": [
+    "**/__snapshots__/"
+  ],
+  "watch": [
+    "/cloud-computer/nodemon/restart"
+  ]
+}

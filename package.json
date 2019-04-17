@@ -1,0 +1,11 @@
+{
+  "author": "Jackson Delahunt",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "description": "Cloud Computer Nodemon Configuration",
+  "license": "ISC",
+  "main": "nodemon.json",
+  "name": "@cloud-computer/nodemon",
+  "version": "0.0.1"
+}
